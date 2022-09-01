@@ -1,2 +1,2 @@
 # Cryptography-Machine-
-Basic Crptography Machine Using Python
+Basic Cryptography Machine Using Python
